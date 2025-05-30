@@ -7,13 +7,11 @@
           <img src="../assets/images/foto_perfil.jpg" alt="" class="w-full h-full object-cover rounded-lg border border-black" />
         </div>
       </div>
-
 <div class="italic text-left text-base leading-relaxed mb-6">
   <p class="mb-4">Estudante de Análise e Desenvolvimento de Sistemas, com interesse em programação, desenvolvimento de software e tecnologias digitais.</p>
   <p class="mb-4">Trabalhando de forma eventual, o que me permite conciliar os estudos e o trabalho. Sou criativo, curioso e determinado a aprender novas linguagens e ferramentas.</p>
   <p class="mb-4">Pretendo aprimorar minhas habilidades e contribuir em melhorias e criações de projetos de futuros.</p>
 </div>
-
 <h2 class="text-xl font-semibold mt-4 mb-2">Aplicação de Currículo feita com Vue + Tailwind!</h2>
 <p class="italic text-sm text-gray-600">Mais informações estão presentes em "Sobre".</p>
   

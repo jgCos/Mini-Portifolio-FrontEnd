@@ -7,6 +7,7 @@
 
       <ul class="flex flex-col gap-3">
 <li>
+
 <a href="https://github.com/jgCos/P1-web-design.git" target="_blank" class="text-blue-600 hover:underline">Link 1</a>
 </li>
 <li>
@@ -15,4 +16,5 @@
 </ul>
 </div>
 </section>
+
 </template>

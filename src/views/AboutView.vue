@@ -2,13 +2,13 @@
       <h1 class="text-3xl font-bold italic mb-8">Sobre.</h1>
       <section class="bg-gray-100 min-h-screen p-8">
 
-
 <div class="bg-white rounded-lg shadow-md p-6 max-w-md mx-auto text-black">
 
 <div class="mb-4">
 <p class="text-xl font-bold capitalize">Nome:</p>
 <p class="text-lg font-semibold capitalize">Jhuan Gustavo</p>
 </div>
+
     
 <div class="mb-4">
 <p class="text-xl font-bold capitalize">Idade:</p>
