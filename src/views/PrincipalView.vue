@@ -6,13 +6,15 @@
       <p class="mb-4 text-gray-700">Acesse abaixo os links que desejar:</p>
 
       <ul class="flex flex-col gap-3">
-<li>
 
+<li>
 <a href="https://github.com/jgCos/P1-web-design.git" target="_blank" class="text-blue-600 hover:underline">Link 1</a>
 </li>
+
 <li>
 <a href="https://www.outroexemplo.com" target="_blank" class="text-blue-600 hover:underline">Link 2</a>
 </li>
+
 </ul>
 </div>
 </section>
