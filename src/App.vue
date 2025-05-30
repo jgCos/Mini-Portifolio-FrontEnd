@@ -9,6 +9,7 @@ import Navbar from './components/NavbarComponent.vue'
  <main class="flex-1 container mx-auto px-4 py-6">
 <router-view />
 </main>
+
 <footer class="bg-sky-800 text-white py-6 px-8">
 <div class="flex flex-col md:flex-row justify-between items-start md:items-center">
   <div class="mb-4 md:mb-0">

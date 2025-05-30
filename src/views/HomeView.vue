@@ -1,6 +1,6 @@
 <template>
-<h1 class="text-3xl font-bold mb-6">Página Inicial.</h1>
-<section class="flex flex-col items-center justify-start min-h-screen bg-gray-100 pt-8">
+  <h1 class="text-3xl font-bold mb-6">Página Inicial</h1>
+  <section class="flex flex-col items-center justify-start min-h-screen bg-gray-100 pt-8">
     <div class="bg-white rounded-lg shadow p-6 max-w-md w-full text-center -mt-1">
       <div class="flex justify-center mb-6">
         <div class="w-44 h-64 rounded-lg p-4 text-black shadow-md bg-gray-300 hover:bg-gray-200 hover:shadow-xl border-2 border-black">

@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
       <h1 class="text-3xl font-bold italic mb-8">Sobre.</h1>
       <section class="bg-gray-100 min-h-screen p-8">
 
